@@ -2,3 +2,4 @@
 .DS_Store
 .compose/people/
 .compose/agent/
+.compose/sealed/
