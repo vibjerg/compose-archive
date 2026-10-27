@@ -1,0 +1,98 @@
+---
+about: []
+at: 2026-10-27T21:29:58Z
+by: tool:3d1de41355fef1f6633e07451de6d46bcaf73e8cbb10eba07a28b2ffa0afe6da
+cost: null
+id: 01M5ZMA7EX5MT24TD5BJMDGJSP
+inputs: []
+kind: note
+links: []
+origin:
+  fetchedAt: 2026-10-27T21:29:58Z
+  name: UX case - efterår 2026.pdf
+  sha256: 9f13010cd2ec9055da07b3226881381c469bd289407468baeae69622d4ee24fc
+  system: file
+people: []
+title: UX case - efterår 2026
+type: note.reference
+---
+UX case
+Quick and dirty UX Expert Review af Buggi.dk
+
+Quick and dirty UX Expert Review
+af Buggi
+•
+Identificerer 2
+–
+3 UX
+-
+udfordringer
+ved tjenesten, som du mener er værd at
+undersøge eller forbedre.
+•
+Udvælg
+1 udfordring
+og præsenterer et konkret forslag til en UI/UX
+-
+forbedring i dit
+foretrukne format.
+•
+Forklar dine overvejelser:
+Hvorfor har du valgt netop denne forbedring, og hvordan
+ville du undersøge, om den skaber værdi for brugerne?
+•
+Link til Buggi
+*UX expert review: Din egen faglige gennemgang af grænsefladen uden at lave research.
+Side
+2
+
+Forventningsafstemning
+•
+Tidsforbrug
+: Vi forventer, at du bruger maksimalt bruger
+2 timer på opgaven og
+præsenterer dine tanker på cirka 5
+-
+10 minutter under samtalen med efterfølgende
+10
+-
+15 minutters dialog.
+•
+Præsentation:
+Der er ingen krav til præsentationsform, og vi forventer hverken et
+færdigt design eller en prototype. Ekstra polerede præsentationer eller designs
+belønnes ikke yderligere.
+•
+Mål
+: Vi er først og fremmest interesserede i din faglige tilgang, dine prioriteringer og
+dine overvejelser. Du må gerne gøre antagelser undervejs, så længe du gør dem
+tydelige.
+Side
+3
+
+Baggrund og kontekst
+•
+Buggi er udviklet til børn i 3.
+–
+5. klasse (8
+–
+12 år)
+•
+Mange skolebørn skal læse 20 minutter om dagen, men de ved ikke hvilke bøger der
+findes, og måske heller ikke hvad de selv kan li' at læse.
+•
+Målet er at inspirere børnene til at vælge og læse en bog, der passer til dem, og som
+de synes er spændende, så det vækker deres læselyst
+•
+Buggi er primært designet til at hjælpe børn
+mens
+de står på biblioteket og skal finde
+en bog at låne
+•
+Det er og bliver ikke muligt at reserve bøger direkte i Buggi
+•
+Det er og bliver ikke muligt at låne og læse e
+-
+bøger/lydbøger direkte i Buggi
+Side
+4
